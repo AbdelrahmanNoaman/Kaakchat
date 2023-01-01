@@ -6,7 +6,7 @@ We applied various filters using the detected face and landmarks.
 
 ### How to use?
 First make sure you have installed all the required libraries on your machine,to install any library use
-> pip install <Library-Name>
+> pip install < Library-Name > 
 
 To run the filters: navigate to required folder and write the following command
 > python ./animatedSnapChatFilters.py.
