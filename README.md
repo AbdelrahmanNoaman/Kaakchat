@@ -1,4 +1,4 @@
-# Kaakchat
+# Kaakchat 🐔🐣
 We have developed a face detection system that not only detects the face but also the facial landmarks with an accepted accuracy.
 Our main scheme is to detect faces using segmentation according to skin color and then use an SVM model to eliminate false positives.
 Next we apply corner detection to the detected face together with a best fit algorithm to detect the corners of each eye and mouth.
